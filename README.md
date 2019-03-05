@@ -22,3 +22,5 @@ les switches :
 + peut-être qu'on utilisera de l'iOU si jamais certains d'entre vous avancent vite (switch Cisco)
 il y a beaucoup de ligne de commande dans ce TP, préférez les copier/coller aux screens
 
+**Aires OSPF**
+
