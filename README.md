@@ -44,3 +44,31 @@ dans un cas réel on peut trouver tout un tas de trucs ici, beaucoup de services
 nous on aura un p'tit serveur web ou un netcat simple, pour simuler un service disponible
 
 **2.Réseaux IP et aires OSPF**
+
+
+
+
+
+
+**2. Un service d'infra**
+ 
+ Dans un cas réel, on peut héberger tout un tas de services utiles à tout le monde :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
