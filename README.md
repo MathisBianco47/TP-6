@@ -142,4 +142,3 @@ démarrage du DNS
 + $ sudo systemctl enable named
 
 
-**5. Serveur NTP**
